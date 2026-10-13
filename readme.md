@@ -92,4 +92,4 @@ This is a **code-only source project** for inspection, source builds, and user a
 Use and modification remain subject to the applicable project and upstream licenses. See [`LICENSE`](LICENSE).
 
 - **Author:** [Anoop Bhatia](https://github.com/anoopspeaks)
-- <strong>Tool used:</strong> <img src="assets/kern-badge.jpg" width="32" height="32" alt="Kern badge" align="middle"> <a href="https://cue.im/">Cue</a>
+- <strong>Tool used:</strong> <img src="assets/kern-badge.jpg" width="48" height="48" alt="Kern badge" align="middle"> <a href="https://cue.im/">Cue by Manus</a>
